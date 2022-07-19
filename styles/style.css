@@ -1,0 +1,25 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.container-1 {
+    display: flex;
+    align-items: center;
+    background-color: black;
+    color: white;
+    width: 80%;
+
+    border-radius: 15px;
+}
+
+.con-div-1 {
+    margin-left: 40px;
+}
+
+a {
+    text-decoration: none;
+    background-color: rgb(55, 235, 19);
+    color: white;
+    padding: 15px;
+    border-radius: 5px;
+}
